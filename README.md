@@ -4,14 +4,11 @@
 
 SharePoint Framework Web Part POC
 
-##Task 1:
 <img width="906" height="199" alt="task_1" src="https://github.com/user-attachments/assets/ad429fe0-b8c3-4737-9170-6e6d28104600" />
 
-##Task 2: 
 <img width="906" height="693" alt="task_2_1" src="https://github.com/user-attachments/assets/b0e05445-80d4-44bf-8357-a01b21a81795" />
 <img width="906" height="371" alt="task_2_2" src="https://github.com/user-attachments/assets/cd8b5ddc-1112-44c2-9e29-671e20083629" />
 
-##Task 3:
 <img width="906" height="394" alt="task_3" src="https://github.com/user-attachments/assets/ae55c95c-899e-4b28-b3e4-f12f833a3de2" />
 
 ## Used SharePoint Framework Version
