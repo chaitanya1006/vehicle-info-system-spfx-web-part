@@ -1,0 +1,66 @@
+/*
+  Your use of the content in the files referenced here is subject to the terms of the license at http://aka.ms/fabric-assets-license
+*/
+.helloWorld {
+  overflow: hidden;
+  padding: 1em;
+  color: "[theme:bodyText, default: #323130]";
+  color: var(--bodyText);
+}
+.helloWorld.teams {
+  font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", sans-serif;
+}
+
+.welcome {
+  text-align: center;
+}
+
+.welcomeImage {
+  width: 100%;
+}
+
+.links a {
+  text-decoration: none;
+  color: "[theme:link, default:#03787c]";
+  color: var(--link);
+}
+.links a:hover {
+  text-decoration: underline;
+  color: "[theme:linkHovered, default: #014446]";
+  color: var(--linkHovered);
+}
+
+.vehicle-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  margin: 20px 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.vehicle-table th {
+  background-color: #f4f4f4;
+  color: #333;
+  font-weight: bold;
+  text-align: left;
+  padding: 12px;
+  border-bottom: 2px solid #ddd;
+}
+
+.vehicle-table td {
+  padding: 12px;
+  border-bottom: 1px solid #eee;
+}
+
+.vehicle-table tr:hover {
+  background-color: #f9f9f9;
+}
+
+.price-cell {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+.iconHoverStyle {
+  cursor: "pointer";
+}
